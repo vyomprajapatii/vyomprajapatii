@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="Photo by Google DeepMind: https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069697/" align="center" style="width: 100%" />
 </div>  
   
 ### <div align="center">I'm Vyom, a 2nd-year computer science student 📚, studying AI/ML 🤖 and learning web development 🌐 while diving deeper into artificial intelligence!</div>  
