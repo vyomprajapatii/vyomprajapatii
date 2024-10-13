@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Vyom, a 2nd-year computer science student 📚, studying AI/ML 🤖 and learning web development 🌐 while diving deeper into artificial intelligence!</div>  
+### <div align="center">I'm Vyom, a 2nd-year computer science student 📚, studying AI/ML 🤖 and learning Web Development 🌐 While diving deeper into artificial intelligence!</div>  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
