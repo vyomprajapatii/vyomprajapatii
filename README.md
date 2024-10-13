@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Photo by Google DeepMind: https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069697/" align="center" style="width: 100%" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fmachine-learning-code&psig=AOvVaw35czRf25GSAYgOx2ktsMhD&ust=1728886094907000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCb5tPYiokDFQAAAAAdAAAAABAE" align="center" style="width: 100%" />
 </div>  
   
 ### <div align="center">I'm Vyom, a 2nd-year computer science student 📚, studying AI/ML 🤖 and learning web development 🌐 while diving deeper into artificial intelligence!</div>  
