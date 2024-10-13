@@ -35,10 +35,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -86,6 +82,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
