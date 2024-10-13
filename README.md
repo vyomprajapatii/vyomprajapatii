@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fmachine-learning-code&psig=AOvVaw35czRf25GSAYgOx2ktsMhD&ust=1728886094907000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCb5tPYiokDFQAAAAAdAAAAABAE" align="center" style="width: 100%" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fdisplay-coding-programming-development-1921326%2F&psig=AOvVaw35czRf25GSAYgOx2ktsMhD&ust=1728886094907000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCb5tPYiokDFQAAAAAdAAAAABAJ" align="center" style="width: 100%" />
 </div>  
   
 ### <div align="center">I'm Vyom, a 2nd-year computer science student 📚, studying AI/ML 🤖 and learning web development 🌐 while diving deeper into artificial intelligence!</div>  
