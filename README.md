@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fdisplay-coding-programming-development-1921326%2F&psig=AOvVaw35czRf25GSAYgOx2ktsMhD&ust=1728886094907000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCb5tPYiokDFQAAAAAdAAAAABAJ" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 ### <div align="center">I'm Vyom, a 2nd-year computer science student 📚, studying AI/ML 🤖 and learning web development 🌐 while diving deeper into artificial intelligence!</div>  
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/vyomprajapatii" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+    <i class="fa-brands fa-x-twitter" style="font-size: 30px; margin-bottom: 5px;"></i>
   </a>
   <a href="https://linkedin.com/in/vyomprajapati777" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
